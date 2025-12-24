@@ -1,0 +1,8 @@
+.idea
+.venv
+*.log
+*.html
+*.xml
+*.png
+*.jpg
+*.pyc
